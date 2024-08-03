@@ -1,4 +1,6 @@
-goFood.foodcategory.json -----------
+**Run node index.js to start the server- **
+
+**goFood.foodcategory.json -----------**
 
 [{
   "_id": {
@@ -19,7 +21,7 @@ goFood.foodcategory.json -----------
   "CategoryName": "Pizza"
 }]
 
-goFood.food_items.json -----------
+**goFood.food_items.json -----------**
 
 [{
   "_id": {
